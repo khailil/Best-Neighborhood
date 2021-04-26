@@ -8,11 +8,11 @@
 ·Tian Xie -- TIX22@pitt.edu
 
 ## Datasets
-[311 Data](https://data.wprdc.org/datastore/dump/76fda9d0-69be-4dd5-8108-0de7907fc5a4) : A dataset on 311 data over the past 6 years in Pittsburgh
+[311 Data](https://data.wprdc.org/datastore/dump/76fda9d0-69be-4dd5-8108-0de7907fc5a4) : A dataset on 311 data over the past 6 years in Pittsburgh (Khailil)
 
-[Police Data](https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f) : This is a dataset of all arrests that have occurred in Pittsburgh. It contains the location and a description of each occurrence.
+[Police Data](https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f) : This is a dataset of all arrests that have occurred in Pittsburgh. It contains the location and a description of each occurrence. (William)
 
-[Playground Data](https://data.wprdc.org/datastore/dump/e39ef76e-0a11-47c8-a86f-a37f55db7a2b) : This dataset includes basic information (including coordinates, number of wards, police zone, etc.) of playgrounds in all neighborhoods in Pittsburgh.
+[Playground Data](https://data.wprdc.org/datastore/dump/e39ef76e-0a11-47c8-a86f-a37f55db7a2b) : This dataset includes basic information (including coordinates, number of wards, police zone, etc.) of playgrounds in all neighborhoods in Pittsburgh. (Tian)
 
 ## Abstract:
 
